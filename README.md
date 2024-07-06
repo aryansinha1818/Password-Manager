@@ -26,4 +26,14 @@ Welcome to **PassOP**, a secure and easy-to-use password manager built to simpli
 ### Tools
 - **Postman**: API testing and development.
 
+## Screenshots
+
+## Screenshots
+
+- Used postman to test the API
+![Screenshot 2024-07-06 204647](https://github.com/aryansinha1818/Password-Manager/assets/84027080/af19755b-e2bc-43e6-ac8e-b10960bf6731)
+
+
+
+
 
