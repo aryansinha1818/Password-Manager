@@ -1,8 +1,29 @@
-# React + Vite
+# PassOP - Your Own Password Manager 🔒
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to **PassOP**, a secure and easy-to-use password manager built to simplify your online life. Manage your passwords with ease, knowing your data is safely stored.
 
-Currently, two official plugins are available:
+## Features ✨
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **Secure Storage**: Safely store and manage all your passwords.
+- **Copy to Clipboard**: Easily copy usernames and passwords.
+- **Responsive Design**: Optimized for both desktop and mobile use.
+- **Edit and Delete**: Update or remove passwords as needed.
+- **User Feedback**: Toast notifications for user actions.
+
+## Technologies Used 🛠️
+
+### Frontend
+- **React.js**: Interactive UI components.
+- **Toastify**: User-friendly notifications.
+- **CSS**: Custom styling for a responsive design.
+
+### Backend
+- **Express.js**: Fast and minimalist web framework for Node.js.
+- **MongoDB**: Secure and flexible NoSQL database.
+- **Body-parser**: Middleware for parsing JSON requests.
+- **Cors**: Middleware for handling Cross-Origin Resource Sharing.
+
+### Tools
+- **Postman**: API testing and development.
+
+
